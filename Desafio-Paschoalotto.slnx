@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ServicoMonitorPasta.Testes/ServicoMonitorPasta.Testes.csproj" />
   <Project Path="ServicoMonitorPasta/ServicoMonitorPasta.csproj" />
 </Solution>

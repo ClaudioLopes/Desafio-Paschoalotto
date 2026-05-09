@@ -58,3 +58,5 @@ C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\De
 C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\Debug\net10.0\ServicoMonitorPasta.Mensagens.es.resources
 C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\Debug\net10.0\en\ServicoMonitorPasta.resources.dll
 C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\Debug\net10.0\es\ServicoMonitorPasta.resources.dll
+C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\Debug\net10.0\en\ServicoMonitorPasta.resources.cs
+C:\Users\Claudio Lopes\Documents\Desafio-Paschoalotto\ServicoMonitorPasta\obj\Debug\net10.0\es\ServicoMonitorPasta.resources.cs

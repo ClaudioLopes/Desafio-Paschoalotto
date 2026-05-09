@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicoMonitorPasta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6852fbd391bfcccf334f45fa8dcd9116197e9b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f135ac1ded81f4eef2af01d5b6a91b84d4a0b3d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicoMonitorPasta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicoMonitorPasta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
