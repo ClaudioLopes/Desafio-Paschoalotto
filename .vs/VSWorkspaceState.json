@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ServicoMonitorPasta"
   ],
-  "SelectedNode": "\\VB6_API_ListView.bas",
+  "SelectedNode": "\\ServicoMonitorPasta\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
